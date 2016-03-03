@@ -2,4 +2,23 @@
 
 'use strict'
 
+var = {skilstak.colors}
+
+var easteregg1 = ["die", "you suck, everyone hates, sincerely your self confidence"];
+var easteregg2 = ["love", "will you make me feel good?"];
+var eastereggs = [easteregg1, easteregg2];
+
+var responses = [
+  "Yes",
+  "No",
+  "@$#% No",
+  "No again."
+  "if its happy or good for you......no.",
+  "ask me again and it will still be no."
+];
+
+function print(message) {
+
 console.log("Welcome to eightball.")
+
+}
